@@ -1,7 +1,7 @@
 ## Publicação Netlify
 
 ### Passo 1: Acessando o hospedador <br>
-Acesse o site www.netlify.com e clique no botão "login" caso já tenha uma conta ou "sign in" para criar uma <br>
+Acesse o site www.netlify.com e clique no botão "login" caso já tenha uma conta ou "sign in" para criar uma nova <br>
 ![image](https://github.com/galvs97/pretalab/assets/44380538/641003f4-1ee9-4601-9505-b78e0dd7860b) <br> <br>
 
 ### Passo 2: Conectando ao github <br>
